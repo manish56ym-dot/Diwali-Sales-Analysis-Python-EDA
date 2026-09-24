@@ -78,16 +78,16 @@ Based on the analysis:
   - Optimize inventory planning for high-demand categories.
   - Use demographic insights for targeted promotional campaigns.
 # 📁 Project Structure
-Diwali-Sales-Analysis/
-│
-├── Diwali_sales.ipynb
-│
-├── Diwali Sales Data.csv
-│
-├── README.md
-│
-└── Images/
-    └── Visualizations/
+  Diwali-Sales-Analysis/
+  │
+  ├── Diwali_sales.ipynb
+  │
+  ├── Diwali Sales Data.csv
+  │
+  ├── README.md
+  │
+  └── Images/
+      └── Visualizations/
 
 # 🚀 How to Run the Project
 ## 1. Clone the repository
@@ -107,5 +107,5 @@ This project demonstrates the complete workflow of a Data Analytics project:
 Raw Data → Data Cleaning → Exploratory Analysis → Visualization → Business Insights
 It showcases how Python can be used to analyze customer behavior and support data-driven business decisions.
 # 👨‍💻 Author
-Manish Kumar
+## Manish Kumar
 Data Analyst | Python | Data Visualization | Exploratory Data Analysis
